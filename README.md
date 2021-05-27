@@ -1,8 +1,7 @@
 # quickz-sh MAJ
 A simple script to setup an awesome shell environment.
 Quickly install and setup zsh and oh-my-zsh (https://github.com/robbyrussell/oh-my-zsh) with
-* Dallas theme (https://github.com/romkatv/powerlevel10k)
-* Nerd-Fonts (https://github.com/ryanoasis/nerd-fonts)
+* Dallas theme
 * zsh-completions (https://github.com/zsh-users/zsh-completions)
 * zsh-autosuggestions (https://github.com/zsh-users/zsh-autosuggestions)
 * zsh-syntax-highlighting (https://github.com/zsh-users/zsh-syntax-highlighting)
