@@ -27,7 +27,7 @@ Requirements:
 
 ``` bash
 git clone https://github.com/dsumon/quick-zsh-maj.git
-cd quickz-zsh-maj
+cd quick-zsh-maj
 ./quickz.sh -c        # only run with '-c' the first time, running multiple times will duplicate history entries
 ```
 
