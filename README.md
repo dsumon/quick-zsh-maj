@@ -1,4 +1,4 @@
-# quickz-sh MAJ
+# quickz-zsh MAJ
 A simple script to setup an awesome shell environment.
 Quickly install and setup zsh and oh-my-zsh (https://github.com/robbyrussell/oh-my-zsh) with
 * Dallas theme
