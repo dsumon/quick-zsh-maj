@@ -16,7 +16,6 @@ Sets following useful aliases:
 * https               - make httpie use https
 * myip - (wget -qO- https://wtfismyip.com/text)       - what's my ip: quickly find out external IP
 * cheat - (https://github.com/chubin/cheat.sh)        - cheatsheets in the terminal!
-* speedtest - (curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python3 -) run speedtest on the fly
 * ipgeo - (curl "http://api.db-ip.com/v2/free/$1")    - finds geo location from IP
 
 ## Installation
