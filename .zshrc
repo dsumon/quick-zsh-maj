@@ -157,10 +157,6 @@ cheat() {
 # TMOUT=900
 # TRAPALRM() { if command -v cmatrix &> /dev/null; then cmatrix -sb; fi }
 
-speedtest() {
-    curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python3 -
-}
-
 # Find geo info from IP
 ipgeo() {
     # Specify ip or your ip will be used
