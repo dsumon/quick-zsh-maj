@@ -137,7 +137,9 @@ SAVEHIST=50000      #save upto 50,000 lines in history. oh-my-zsh default is 10,
 alias myip="wget -qO- https://wtfismyip.com/text"	# quickly show external ip address
 alias l="ls -lah"
 alias k="k -h"						# show human readable filesizes, in kb, mb etc
-
+alias maj="sudo apt update && sudo apt upgrade -y"
+alias clean="sudo apt autoclean && sudo apt --purge autoremove -y"
+alias os="cat /etc/*-release"
 
 # CUSTOM FUNCTIONS
 
